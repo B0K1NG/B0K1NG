@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [@B0K1NG](https://github.com/B0K1NG), and I'm passionate about FrontEnd Development].
+I'm [@B0K1NG](https://github.com/B0K1NG), and I'm passionate about FrontEnd Development.
 
 ## 🌱 Currently Learning
 
