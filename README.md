@@ -12,6 +12,6 @@ I'm open to collaboration on projects related to [Website Building]. If you have
 
 ## 📫 How to Reach Me
 
-You can reach me via [email](dominykaspavlijus@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/dominykas-pavlijus-138b41270/)https://www.linkedin.com/in/dominykas-pavlijus-138b41270/).
+You can reach me via [email](dominykaspavlijus@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/dominykas-pavlijus-138b41270/)https://www.linkedin.com/in/dominykas-pavlijus-138b41270/).
 
 Let's connect and build something amazing together! 😊
