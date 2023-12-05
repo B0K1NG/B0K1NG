@@ -14,6 +14,14 @@ Ready to join forces on projects revolving around [Website Building], I'm eager 
 
 Whether it's the classic email route via [email](https://mail.google.com/mail/?view=cm&source=mailto&to=dominykaspavlijus@gmail.com) or the modern networking realm of [LinkedIn](https://www.linkedin.com/in/dominykas-pavlijus-138b41270/) I'm just a click away. Let's break the digital ice and forge something extraordinary!
 
-Let's build and innovate together! 😊
+## ✨ Beyond the Code
+
+As a tech enthusiast, my interests extend beyond the pixels and lines of code. I'm an avid [football player](http://www.vilniausfutbolas.lt/zaidejas/Dominykas-Pavlijus/15956/20/30), [gamer](https://steamcommunity.com/id/GPR125/), and [music lover](https://music.youtube.com/playlist?list=PLtJgNcx2RNpFwW01ocuuKqs--NB-bwsM7). One of my all-time favorite songs is [Sherane a.k.a Master Splinter’s Daughter - Kendrick Lamar]. When I'm not coding, you'll find me on the football field, chasing both the ball and the thrill of the game. Let's not just talk code; let's explore the wonders beyond the screen!
+
+## 🎮 Leveling Up in the Digital Realm
+
+Gaming is not just a hobby; it's a passion that fuels my creativity. Whether battling mythical beasts or exploring futuristic worlds, I find inspiration in the pixels of virtual landscapes.
+
+Let's build, innovate, groove to the music, score goals, and conquer digital realms together! 😊
 
 ⬇️ Dive into my most cherished projects below! 🕹️⬇️
