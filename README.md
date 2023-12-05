@@ -16,4 +16,4 @@ You can reach me via [email](https://mail.google.com/mail/?view=cm&source=mailto
 
 Let's connect and build something amazing together! 😊
 
-⬇️Check out my most favourite projects below!⬇️ 🕹️
+⬇️Check out my most favourite projects below! 🕹️⬇️
