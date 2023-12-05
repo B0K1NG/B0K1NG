@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I go by the name Dominykas Pavlijus, and my heart beats to the rhythm of FrontEnd Development.
+I go by the name [Dominykas Pavlijus](https://github.com/B0K1NG), and my heart beats to the rhythm of FrontEnd Development.
 
 ## 🌱 Currently Planting Seeds of Knowledge
 
