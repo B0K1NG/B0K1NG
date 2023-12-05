@@ -16,7 +16,7 @@ Whether it's the classic email route via [email](https://mail.google.com/mail/?v
 
 ## ✨ Beyond the Code
 
-As a tech enthusiast, my interests extend beyond the pixels and lines of code. I'm an avid [football player](http://www.vilniausfutbolas.lt/zaidejas/Dominykas-Pavlijus/15956/20/30), [gamer](https://steamcommunity.com/id/GPR125/), and [music lover](https://music.youtube.com/playlist?list=PLzDyUTWSCzsp2Qe6AIsii6v9-XqW7mEc7). One of my all-time favorite songs is [Sherane a.k.a Master Splinter’s Daughter - Kendrick Lamar]. When I'm not coding, you'll find me on the football field, chasing both the ball and the thrill of the game. Let's not just talk code; let's explore the wonders beyond the screen!
+As a tech enthusiast, my interests extend beyond the pixels and lines of code. I'm an avid [Football player](http://www.vilniausfutbolas.lt/zaidejas/Dominykas-Pavlijus/15956/20/30), [Gamer](https://steamcommunity.com/id/GPR125/), and [Music lover](https://music.youtube.com/playlist?list=PLzDyUTWSCzsp2Qe6AIsii6v9-XqW7mEc7). One of my all-time favorite songs is [Sherane a.k.a Master Splinter’s Daughter - Kendrick Lamar]. When I'm not coding, you'll find me on the football field, chasing both the ball and the thrill of the game. Let's not just talk code; let's explore the wonders beyond the screen!
 
 ## 🎮 Leveling Up in the Digital Realm
 
