@@ -24,4 +24,6 @@ Gaming is not just a hobby; it's a passion that fuels my creativity. Whether bat
 
 Let's build, innovate, groove to the music, score goals, and conquer digital realms together! 😊
 
+<a href="https://app.daily.dev/b0k1ng"><img src="https://api.daily.dev/devcards/eedc3c17b64449cd968d6058eb1da06f.png?r=th7" width="400" alt="Dominykas P's Dev Card"/></a>
+
 ⬇️ Dive into my most cherished projects below! 🕹️⬇️
