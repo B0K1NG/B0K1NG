@@ -1,7 +1,7 @@
 # Hi there! 👋
+<a href="https://app.daily.dev/b0k1ng"><img src="https://api.daily.dev/devcards/eedc3c17b64449cd968d6058eb1da06f.png?r=th7" width="400" alt="Dominykas P's Dev Card"/></a>
 
 I go by the name [Dominykas Pavlijus](https://github.com/B0K1NG), and my heart beats to the rhythm of FrontEnd Development.
-<a href="https://app.daily.dev/b0k1ng"><img src="https://api.daily.dev/devcards/eedc3c17b64449cd968d6058eb1da06f.png?r=th7" width="400" alt="Dominykas P's Dev Card"/></a>
 
 ## 🌱 Currently Planting Seeds of Knowledge
 
