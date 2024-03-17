@@ -42,23 +42,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/B0K1NG/B0K1NG/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/dominykas-pavlijus-138b41270/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/watch?v=PaFH0pb7amk&list=PLzDyUTWSCzsp2Qe6AIsii6v9-XqW7mEc7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/ig_dominykas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
