@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A passionate frontend developer from Lithuania</p>
+<p align="left">A passionate Front-End Web Developer from Lithuania</p>
 
 ###
 
