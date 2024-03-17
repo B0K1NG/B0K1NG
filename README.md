@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi 👋, I'm Dominykas Pavlijus</p>
+<h1 align="center">Hi 👋, I'm Dominykas Pavlijus</h1>
 
 ###
 
@@ -44,9 +44,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/B0K1NG/B0K1NG/output/snake.svg" alt="Snake animation" />
-
-###
