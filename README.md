@@ -1,8 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Dominykas and I'm a Full-Stack Developer from Lithuania</p>
+<h3 align="center">My name is Dominykas and I'm a Full-Stack Developer from Lithuania</h3>
+
+###
+
+<div align="center">
+  <img height="580" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
 ###
 
@@ -34,12 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=B0K1NG&theme=nightowl" alt="Layout with last medium posts"  />
 </div>
 
 ###
