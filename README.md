@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨Creating bugs since 2022.<br>📚 I'm currently learning Back-End Development.<br>🎯 Goals: Land a Front-End / Full-Stack Developer role.<br>🎲 Fun fact: I play soccer, travel, go to the gym, and enjoy my life.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Back-End Development.<br>🎯 Goals: Land a Front-End / Full-Stack Developer role.<br>🎲 Fun fact: I play soccer, travel, go to the gym, and enjoy my life.</p>
 
 ###
 
