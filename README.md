@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Back-End Development, expanding my knowledge on Front-End Development.<br>🎯 Goal: Improve at Front-End Developer or UI/UX Developer role.<br>🎲 Fun fact: I keep active by playing soccer and hitting the gym, love watching movies, snowboarding, and once conquered my fear of deep water by trying scuba diving (skydiving is next on my list!). Aside from that, I’m just cruising through life.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Back-End Development, expanding my knowledge on Front-End Development.<br>🎯 Goal: Improve at Front-End, Back-end and UI/UX Developer role.<br>🎲 Fun fact: I keep active by playing soccer and hitting the gym, love watching movies, snowboarding, and once conquered my fear of deep water by trying scuba diving (skydiving is next on my list!). Aside from that, I’m just cruising through life.</p>
 
 ###
 
