@@ -16,7 +16,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Back-End Development, expanding my knowledge on Front-End Development.<br>🎯 Goal: Enhance skills in Front-End, Back-End, and UI/UX Development roles.<br>🎲 Fun fact: I keep active by playing soccer and hitting the gym, love watching movies, snowboarding, and once conquered my fear of deep water by trying scuba diving (skydiving is next on my list!). Aside from that, I’m just cruising through life.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Back-End Development, expanding my knowledge on Front-End Development.<br>🎯 Goal: Enhance skills in Front-End, Back-End, and UI/UX Development roles.<br>🎲 Fun fact: I keep active by playing soccer and hitting the gym, love watching movies, snowboarding, and once conquered my fear of deep water by trying scuba diving (skydiving is next on my list!). Aside from that, I’m just cruising through life.<br>🎨 You can follow my current Figma design projects, which I update weekly, by visiting this link:
+<a href="https://www.figma.com/design/HKD0G1c3T53xaJz4bQAKVJ/100-Days-of-Designing?node-id=0-1&p=f&t=9yBQ0keUAZqz4acA-0" target="_blank">💡 100 Days of Designing</a></p>
 
 ###
 
@@ -40,6 +41,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="php logo" />
+          
 </div>
 
 ###
@@ -51,8 +55,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=B0K1NG&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/B0K1NG/B0K1NG/output/snake.svg" alt="Snake animation" />
-
-###
