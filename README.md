@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently working as a Front-End developer.<br>🎲 Fun fact: I keep active by playing soccer and hitting the gym, love watching movies, snowboarding, and once conquered my fear of deep water by trying scuba diving (skydiving is next on my list!). Aside from that, I’m just cruising through life.<br>🎨 You can follow my current Figma design projects, by visiting this link:
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently working as a Front-End developer.<br>🎲 Fun fact: I keep active by playing soccer and hitting the gym, love watching movies, snowboarding, and once conquered my fear of deep water by trying scuba diving (skydiving is next on my list!). Aside from that, I’m just cruising through life.<br>🎨 You can follow my current Figma design projects, by visiting this link:<br>
 <br><a href="https://dribbble.com/B0K1NG" target="_blank">💡 Desings</a></p>
 
 🎨 You can check out my projects that I contributed:<br>
@@ -58,6 +58,7 @@
   <img src="https://streak-stats.demolab.com?user=B0K1NG&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=B0K1NG&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 
 
 
