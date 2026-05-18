@@ -23,7 +23,7 @@
 <br><a href="https://mesoaccounting.lt" target="_blank">🌐 Meso Accounting</a>
 <br><a href="https://www.devoro.com" target="_blank">🌐 Devoro</a>
 <br><a href="https://www.vrk.lt" target="_blank">🌐 Central Election Commission of the Republic of Lithuania (VRK)</a>
-<br><a href="https://www.orion.lt/" target="_blank">🌐 Orion</a></p>
+<br><a href="https://www.orion.lt/" target="_blank">🌐 Orion</a>
 <br><a href="https://www.blackbanx.com/" target="_blank">🌐 BlackBanx</a></p>
 
 ###
