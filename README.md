@@ -25,6 +25,7 @@
 <br><a href="https://www.vrk.lt" target="_blank">🌐 Central Election Commission of the Republic of Lithuania (VRK)</a>
 <br><a href="https://www.orion.lt/" target="_blank">🌐 Orion</a>
 <br><a href="https://www.telia.lt/mano/privatiems/sso" target="_blank">🌐 Telia Self-Service</a>
+<br><a href="https://www.marksign.lt/" target="_blank">🌐 MarkSign</a>
 <br><a href="https://www.blackbanx.com/" target="_blank">🌐 BlackBanx</a></p>
 ###
 
